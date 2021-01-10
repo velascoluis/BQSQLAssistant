@@ -2,7 +2,7 @@
 This repo contains a Jupyter notebook illustrating how to use the:
 * BigQuery DataQnA API
 * Translate API
-* StT API demo
+* StT API
 
 **Workflow:**
 1. Get a Spanish command from the local microphone
